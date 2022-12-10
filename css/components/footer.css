@@ -1,0 +1,31 @@
+footer {
+  background-color: #2C2B2B;
+}
+
+.social {
+  padding: 4rem 0 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social__link {
+  text-decoration: none;
+}
+
+.fa-brands {
+  font-size: 1.875rem;
+  color: #1CDD87;
+}
+
+.footer__strap {
+  font-size: .875rem;
+  color: #6b6c6c;
+  padding-bottom: 4rem;
+}
+
+.love {
+  color: #BF1011;
+}
